@@ -1,5 +1,3 @@
-## 📄 Project README Template
-
 # <Project Name>
 
 > One-line description of the project.
