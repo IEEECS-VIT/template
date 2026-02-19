@@ -108,6 +108,21 @@ docker run -p <port>:<port> <project-name>
 ```
 ---
 
+## Git Hooks Setup
+
+This repository uses custom Git hooks to enforce commit standards and branch discipline.
+
+After cloning the repository, run the following command once:
+
+```bash
+git config core.hooksPath .hooks
+```
+This enables:
+- Commit message validation
+- Blocking direct pushes to `main`
+
+---
+
 ## 🔐 Environment Variables
 
 List all required environment variables and briefly explain their purpose.
