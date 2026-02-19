@@ -1,4 +1,4 @@
-# Contributing
+# Contribution Guidelines
 
 Thank you for contributing to IEEE CS projects.
 
