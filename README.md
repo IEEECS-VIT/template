@@ -59,14 +59,18 @@ src/
 
 ### 1. Clone the Repository
 
-git clone <repository-url>  
+```bash
+git clone <repository-url>
 cd <project-folder>
+```
 
 ### 2. Install Dependencies
 
 Example:
 
+```bash
 npm install
+```
 
 ### 3. Configure Environment Variables
 
@@ -78,7 +82,9 @@ Refer to `.env.example` for the list of required keys.
 
 Example:
 
+```bash
 npm run dev
+```
 
 ---
 
@@ -86,12 +92,15 @@ npm run dev
 
 ### Build Image
 
+```bash
 docker build -t <project-name> .
+```
 
 ### Run Container
 
+```bash
 docker run -p <port>:<port> <project-name>
-
+```
 ---
 
 ## 🔐 Environment Variables
@@ -122,8 +131,9 @@ Provide instructions to run tests.
 
 Example:
 
+```bash
 npm test
-
+```
 ---
 
 ## 📅 Project Status
