@@ -1,6 +1,5 @@
 ## 📄 Project README Template
 
-```md
 # <Project Name>
 
 > One-line description of the project.
@@ -141,4 +140,4 @@ npm test
 ## 📜 License
 
 This project is licensed under the MIT License.
-```
+
