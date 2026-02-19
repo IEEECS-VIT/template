@@ -90,6 +90,21 @@ Projects are responsible for customizing Docker configuration according to their
 
 ---
 
+## Git Hooks Setup
+
+This repository uses custom Git hooks to enforce commit standards and branch discipline.
+
+After cloning the repository, run the following command once:
+
+```bash
+git config core.hooksPath .hooks
+```
+This enables:
+- Commit message validation
+- Blocking direct pushes to `main`
+
+---
+
 ## Code Standards
 
 - Do not commit secrets.
