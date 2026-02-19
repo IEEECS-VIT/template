@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="IEEE CS Logo" width="400"/>
+</p>
+
 # Project Name
 
 > One-line description of the project.
