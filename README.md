@@ -1,10 +1,4 @@
-# IEEE CS README Template
-
-This is the official README structure to be used for all IEEE CS projects.
-
----
-
-## <Project Name>
+# <Project Name>
 
 > One-line description of the project.
 
