@@ -46,13 +46,14 @@ Briefly describe the key directories and their purpose.
 
 Example:
 
+```bash
 src/
 ├── components/
 ├── services/
 ├── utils/
 ├── routes/
 └── main.js
-
+```
 ---
 
 ## ⚙️ Setup Instructions
