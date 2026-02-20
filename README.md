@@ -4,11 +4,9 @@
 
 <h4 align="center">One-line description of the project.</h4>
 
-
-> 
 ---
 
-## 📌 Overview
+## Overview
 
 Provide a concise description of:
 
@@ -18,7 +16,7 @@ Provide a concise description of:
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 Provide a high-level explanation of the system design.
 
@@ -32,7 +30,7 @@ Include:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer        | Technology Used |
 |-------------|-----------------|
@@ -44,7 +42,7 @@ Include:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Briefly describe the key directories and their purpose.
 
@@ -93,7 +91,7 @@ npm run dev
 
 ---
 
-## 🐳 Docker Setup
+## Docker Setup
 
 ### Build Image
 
@@ -123,7 +121,7 @@ This enables:
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 List all required environment variables and briefly explain their purpose.
 
@@ -135,7 +133,7 @@ List all required environment variables and briefly explain their purpose.
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 Describe:
 
@@ -145,7 +143,7 @@ Describe:
 
 ---
 
-## 🧪 Testing (If Applicable)
+## Testing (If Applicable)
 
 Provide instructions to run tests.
 
@@ -156,16 +154,12 @@ npm test
 ```
 ---
 
-## 📅 Project Status
+## Project Status
 
 - 🟢 In Development  
 - 🟡 Maintenance Mode  
 - 🔵 Completed  
 - 🔴 Archived  
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License.
 
