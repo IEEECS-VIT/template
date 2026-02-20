@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/logo.svg" alt="IEEE CS Logo" width="400"/>
-</p>
+![ieeecs-template-header](https://github.com/user-attachments/assets/c3c40c85-51a2-4a5e-82a4-c32a0223e336)
 
 # Project Name
 
