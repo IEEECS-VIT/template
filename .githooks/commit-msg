@@ -5,7 +5,7 @@ commit_msg=$(cat "$1")
 pattern="^(feat|fix|chore|docs|refactor|test): .+"
 
 if ! echo "$commit_msg" | grep -Eq "$pattern"; then
-  echo "❌ Invalid commit message format."
+  echo "---Invalid commit message format.---"
   echo "Use: type: message"
   echo "Example: feat: add docker setup"
   exit 1
