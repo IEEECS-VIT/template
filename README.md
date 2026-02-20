@@ -1,9 +1,11 @@
 ![ieeecs-template-header](https://github.com/user-attachments/assets/c3c40c85-51a2-4a5e-82a4-c32a0223e336)
 
-# Project Name
+<h1 align="center">Project Name</h1>
 
-> One-line description of the project.
+<h4 align="center">One-line description of the project.</h4>
 
+
+> 
 ---
 
 ## 📌 Overview
